@@ -1,0 +1,6 @@
+{
+  "name": "Air Astana Cadet & Apprentice Prep",
+  "description": "Comprehensive interactive training suite for Air Astana Ab-Initio Pilot Cadet and EASA Part-66 Apprentice Aircraft Engineer selection programs with AI Flight Instructor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
